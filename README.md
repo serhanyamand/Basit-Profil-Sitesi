@@ -27,7 +27,7 @@ Dosyayı indirin ve siteniz hazır.
 
 ## Yapımcılar
 
-👤 **Mitszy**
+👤 **serhanyamand**
 
 * Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
 * Website: http://beastprofile.tr.ht
