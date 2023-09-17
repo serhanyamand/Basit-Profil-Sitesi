@@ -30,8 +30,8 @@ Dosyayı indirin ve siteniz hazır.
 👤 **Mitszy**
 
 * Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
-* Website: https://beastprofile.tr.ht
-* Github: [@mitszy](https://github.com/mitszy)
+* Website: http://beastprofile.tr.ht
+* Github: [@serhanyamand](https://github.com/serhanyamand)
 
 
 ## Bize Destek Ol
